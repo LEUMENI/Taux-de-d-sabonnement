@@ -33,10 +33,9 @@ Ce dépôt contient mon projet de prédiction du taux de désabonnement des clie
 - Sklearn
 
 ## Comment exécuter le projet
-
+1- installer anaconda/jupyter nootebook
 1. Cloner ce dépôt sur votre machine locale.
-2. Installer les dépendances requises à l'aide de la commande 
+2. Installer les dépendances requises 
 
 N'hésitez pas à explorer les différents fichiers et dossiers de ce dépôt pour en apprendre davantage sur chaque étape du projet.
 
-Si vous avez des questions ou des commentaires, n'hésitez pas à me contacter.
